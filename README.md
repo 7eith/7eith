@@ -10,7 +10,7 @@
 
 ### &nbsp;About Me :
 - 🔭 Currently open for Work
-- 📫 Reach me : @seithh • seith@synezia.com
+- 📫 Reach me : @seithh
 
 ---
 
