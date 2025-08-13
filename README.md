@@ -11,14 +11,9 @@
 ### &nbsp;About me:
 - 🔭 Currently open for work and opportunities.
 - 💻 Most of my stuff is private and self hosted.
-- 📫 For suggestions, paid support, reviews, opportunities, etc, reach me out.
+- 📫 For suggestions, paid support, reviews, opportunities, etc, reach me out;
+
+[![email](https://img.shields.io/badge/Gmail-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=red&color=white)](mailto:seith.corp@gmail.com)
+[![discord](https://img.shields.io/badge/Discord-blue?style=flat-square&logo=discord&logoColor=FFFFFF&labelColor=blue&color=white)](https://discordapp.com/users/521346234431307776)
 
 <img src="https://github-readme-stats.vercel.app/api?username=7eith&count_private=true&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0D1117" alt="Github Stats"/>
-
---- 
-### 📫 Reach me:
-<p align="center">
-  <img src="https://img.shields.io/badge/Gmail-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=red&color=white" href="mailto:seith.corp@gmail.com "alt="Gmail Badge">
-  <img src="https://img.shields.io/badge/Discord-blue?style=flat-square&logo=discord&logoColor=FFFFFF&labelColor=blue&color=white" href="https://discordapp.com/users/521346234431307776" alt="Discord Badge">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=x&logoColor=FFFFFF&labelColor=black&color=white" href="https://x.com/7eith_" alt="X Badge">
-</p>
